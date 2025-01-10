@@ -66,6 +66,10 @@
                 <td>14</td>
                 <td>Lab 14: Line Follower or Obstacle Avoidance Robot</td>
             </tr>
+              <tr>
+                <td>14</td>
+                <td>exam: DHT11 and PIR sensor with LCD interfacing</td>
+            </tr>
         </tbody>
     </table>
 </body>
