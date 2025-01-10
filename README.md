@@ -1,19 +1,99 @@
-Microprocessors and Microcontroller Lab								
-						
- List of Experiments					
-					
-Experiment No.	Experiment Title					
-1	Lab 1: Introduction to Microcontrollers, Arduino IDE, and Programming																			
-2	Lab 2: Keypad and LCD Interfacing with Arduino									
-3	Lab 3: Digital Sensors Interfacing with Arduino								
-4	Lab 4:  Timer and counter-mode programming using Arduino.												
-5	Lab 5: Implementation of Interrupts using Arduino														
-6	Lab 6: Analog to Digital Conversion and interfacing with sensors												
-7	Lab 7: Implementation of Serial Communication/UART																						
-8	Lab 8: Serial Peripheral Interface Programming using Arduino.													
-9	Lab 9: I2C Protocol Implementation using Arduino.										
-10	Lab 10: Interfacing Bluetooth with Arduino										
-11	Lab 11: Interfacing Real Time Clock								
-12	Lab 12: IoT Integration and Cloud Connectivity										
-13	Lab 13: Advanced Topics: Machine Learning at the Edge									
-14	Lab 14: Line Follower or Obstacle Avoidance Robot										
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Microprocessors and Microcontroller Lab</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        h1 {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h1>Microprocessors and Microcontroller Lab</h1>
+    <h2>List of Experiments</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Experiment No.</th>
+                <th>Experiment Title</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>Lab 1: Introduction to Microcontrollers, Arduino IDE, and Programming</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Lab 2: Keypad and LCD Interfacing with Arduino</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Lab 3: Digital Sensors Interfacing with Arduino</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>Lab 4: Timer and counter-mode programming using Arduino</td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>Lab 5: Implementation of Interrupts using Arduino</td>
+            </tr>
+            <tr>
+                <td>6</td>
+                <td>Lab 6: Analog to Digital Conversion and interfacing with sensors</td>
+            </tr>
+            <tr>
+                <td>7</td>
+                <td>Lab 7: Implementation of Serial Communication/UART</td>
+            </tr>
+            <tr>
+                <td>8</td>
+                <td>Lab 8: Serial Peripheral Interface Programming using Arduino</td>
+            </tr>
+            <tr>
+                <td>9</td>
+                <td>Lab 9: I2C Protocol Implementation using Arduino</td>
+            </tr>
+            <tr>
+                <td>10</td>
+                <td>Lab 10: Interfacing Bluetooth with Arduino</td>
+            </tr>
+            <tr>
+                <td>11</td>
+                <td>Lab 11: Interfacing Real Time Clock</td>
+            </tr>
+            <tr>
+                <td>12</td>
+                <td>Lab 12: IoT Integration and Cloud Connectivity</td>
+            </tr>
+            <tr>
+                <td>13</td>
+                <td>Lab 13: Advanced Topics: Machine Learning at the Edge</td>
+            </tr>
+            <tr>
+                <td>14</td>
+                <td>Lab 14: Line Follower or Obstacle Avoidance Robot</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
